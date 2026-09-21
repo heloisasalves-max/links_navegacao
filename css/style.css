@@ -97,7 +97,8 @@ header {
     align-items: center;
 }
 
-.banco {
-    background-color: rgba(189, 165, 245, 0.5);
+#banco {
+    background-color: rgba(64, 30, 145, 0.5);
     align-items: center;
+    
 }
