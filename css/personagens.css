@@ -14,7 +14,7 @@ header {
     display: flex;
     justify-content: space-between;
     color: black;
-    padding: 40px;
+
     margin-bottom: 40px;
 }
 
@@ -85,9 +85,22 @@ header {
 }
 
 
-.menu {
+#menu {
+    
+    padding: 20px;
+    border-radius: 5px;
    display: flex;
-   gap: 40px;
+   gap:15px;
+   font-size: small;
+}
+
+#menu a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
 }
 
 .descricao {
