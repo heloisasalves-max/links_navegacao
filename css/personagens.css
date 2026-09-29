@@ -86,7 +86,7 @@ header {
 
 
 #menu {
-    
+
     padding: 20px;
     border-radius: 5px;
    display: flex;
@@ -107,4 +107,19 @@ header {
     padding: 20px;
     display: flex;
     align-items: center;
+}
+
+footer a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }

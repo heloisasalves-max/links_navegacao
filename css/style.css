@@ -41,6 +41,9 @@ header {
     width: 350px;
     height: 350px;
 }
+#introducao p {
+margin-bottom: 20px;
+}
 
 #fotos {
     display: flex;
@@ -72,16 +75,9 @@ header {
 }
 
 
-#menu {
-    
-    padding: 20px;
-    border-radius: 5px;
-   display: flex;
-   gap:15px;
-   font-size: small;
-}
 
-#menu a {
+
+#menu a,  #destaques a{
     background-color: white;
     text-decoration: none;
     color: black;
@@ -89,6 +85,7 @@ header {
     border-radius: 15px;
     font-weight: bold;
 }
+
 
 .descricao {
     padding: 10px;
@@ -105,7 +102,7 @@ header {
     border-radius: 20px;
     text-align: center;
     line-height: 2;
-    
+
 }
 footer a {
     background-color: white;
