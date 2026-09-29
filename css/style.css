@@ -84,6 +84,15 @@ margin-bottom: 20px;
     font-weight: bold;
 }
 
+#introducao a{
+background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
 .descricao {
     padding: 10px;
     display: flex;
