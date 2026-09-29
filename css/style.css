@@ -17,6 +17,8 @@ header {
     margin-bottom: 40px;
 }
 
+
+
 #introducao {
     border-radius: 20px;
     display: flex;
@@ -30,17 +32,18 @@ header {
     line-height: 1.5;
 }
 
-
 #introducao h2 {
     margin-top: 10px;
     margin-bottom: 10px;
     line-height: normal;
 }
+
 #introducao img {
     border-radius: 20px;
     width: 350px;
     height: 350px;
 }
+
 #introducao p {
 margin-bottom: 20px;
 }
@@ -62,8 +65,6 @@ margin-bottom: 20px;
     align-items: center;
 }
 
-
-
 .foto p {
     margin-top: 10px;
     font-weight: bold;
@@ -74,10 +75,7 @@ margin-bottom: 20px;
     color: rgb(215, 27, 253)
 }
 
-
-
-
-#menu a,  #destaques a{
+#menu a,  #destaques a, #banco a{
     background-color: white;
     text-decoration: none;
     color: black;
@@ -85,7 +83,6 @@ margin-bottom: 20px;
     border-radius: 15px;
     font-weight: bold;
 }
-
 
 .descricao {
     padding: 10px;
@@ -112,14 +109,7 @@ footer a {
     border-radius: 15px;
     font-weight: bold;
 }
-main a {
-    background-color: white;
-    text-decoration: none;
-    color: black;
-    padding: 10px;
-    border-radius: 15px;
-    font-weight: bold;
-}
+
 footer {
     display: flex;
     justify-content: space-between;
